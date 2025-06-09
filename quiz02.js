@@ -15,7 +15,7 @@ var questions = [
   },
   {//43
 	type: "multiple-choice",
-	question: "When a real estate company migrated offline systems to the cloud, it summarized the following  system transformation requirements: 1) the system and applications smoothly transformed to the  cloud; 2) a multi-language(java,go) hybrid architecture to support hundreds of businesses; 3) days, Rapid innovation of granular business. Respond to the above requirements. Which Huawei Cloud PaaS solution is more suitable? () [Multiple choice questions]"
+	question: "When a real estate company migrated offline systems to the cloud, it summarized the following  system transformation requirements: 1) the system and applications smoothly transformed to the  cloud; 2) a multi-language(java,go) hybrid architecture to support hundreds of businesses; 3) days, Rapid innovation of granular business. Respond to the above requirements. Which Huawei Cloud PaaS solution is more suitable? () [Multiple choice questions]",
 	options: [
 		"Apply SaaS",
 		"Application Switch Cloud Middleware Solution",
